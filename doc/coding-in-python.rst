@@ -3,7 +3,7 @@ Coding in Python
 ================
 
 :Home page: :Home page: https://github.com/pierre-rouleau/about-python
-:Time-stamp: <2020-09-04 10:24:15, updated by Pierre Rouleau>
+:Time-stamp: <2020-09-04 15:05:01, updated by Pierre Rouleau>
 :Copyright:  Copyright © 2020, Pierre Rouleau
 :License: `MIT <LICENSE>`_
 
@@ -51,23 +51,25 @@ prefer it even though its name is close to the Unix ``/dev`` directory.
   their speed and the partitions.  Then inside the selected drive I use the
   same directory name, something like ``D:\dev``
 
-For my main Python project that contains the utilities I use all the time, I
-normally call this project **python**.  So that's in ``~/dev/python``
+Under this:
 
-Each program has a main file and one or several launcher files.
-They are all stored inside the **apps** sub-directory
+- For my main Python project that contains the utilities I use all the time, I
+  normally call this project **python**.  So that's in ``~/dev/python``.
 
-Each package has its own directory, at the same level.
+  - Each program has a main file and one or several launcher files.
+    They are all stored inside the **apps** sub-directory
 
-I normally use the directory ``_doc`` to store documentation.  The name starts
-with an underscore so it shows first in the list of directories.
+  - Each package has its own directory, at the same level.
+
+  - I normally use the directory ``_doc`` to store documentation.  The name starts
+    with an underscore so it shows first in the list of directories.
 
 In my how directory I also have a ``bin`` directory where I store several
 generic scripts and executable files, a `devpub`` directory that contains
 clones of public projects repositories.
 
-Overall, it looks like this, assuming I have created one level packages called
-``ppr`, ``pprg`` and ``pprm``::
+Overall, it looks like this, assuming I have 3 one-level packages called
+``ppr``, ``pprg`` and ``pprm``::
 
                 ~
                 ├── bin
