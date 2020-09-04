@@ -3,7 +3,7 @@ Coding in Python
 ================
 
 :Home page: :Home page: https://github.com/pierre-rouleau/about-python
-:Time-stamp: <2020-09-04 15:05:01, updated by Pierre Rouleau>
+:Time-stamp: <2020-09-04 15:05:36, updated by Pierre Rouleau>
 :Copyright:  Copyright © 2020, Pierre Rouleau
 :License: `MIT <LICENSE>`_
 
@@ -65,7 +65,7 @@ Under this:
     with an underscore so it shows first in the list of directories.
 
 In my how directory I also have a ``bin`` directory where I store several
-generic scripts and executable files, a `devpub`` directory that contains
+generic scripts and executable files, a ``devpub`` directory that contains
 clones of public projects repositories.
 
 Overall, it looks like this, assuming I have 3 one-level packages called
