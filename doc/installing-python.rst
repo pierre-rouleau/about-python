@@ -23,10 +23,13 @@ using Homebrew on the following page of `The Hitchhiker's Guide to Python`_:
 
 - `Installing Python 3 on Mac OS X`_.
 
+More information is available from the `Python page of Homebrew`_.
+
 .. _Homebrew: https://docs.brew.sh/
 .. _The Hitchhiker's Guide to Python: https://docs.python-guide.org/
 .. _Installing Python 3 on Mac OS X: https://docs.python-guide.org/starting/install3/osx/#install3-osx
 .. _Selecting a Python version for a shell: selecting-python-in-shell.rst
+.. _Python page of Homebrew: https://docs.brew.sh/Homebrew-and-Python
 
 
 I set up my system in such a way that a version of Python 3 is the default,
