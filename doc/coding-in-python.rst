@@ -3,7 +3,7 @@ Coding in Python
 ================
 
 :Home page: :Home page: https://github.com/pierre-rouleau/about-python
-:Time-stamp: <2020-10-04 22:19:08, updated by Pierre Rouleau>
+:Time-stamp: <2020-10-04 22:24:45, updated by Pierre Rouleau>
 :Copyright:  Copyright © 2020, Pierre Rouleau
 :License: `MIT <LICENSE>`_
 
@@ -23,7 +23,7 @@ It's possible to use Python to write different types of programs:
 - other types of servers,
 - etc...
 
-I prefer to move much of the code logic in re-usable components.
+Because of that, I prefer to move much of the code logic in re-usable components.
 That's Python modules or packages.  In some case organized in libraries.
 And I want to be able to re-use these in all the programs I write.
 
