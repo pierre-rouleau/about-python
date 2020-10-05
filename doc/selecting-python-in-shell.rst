@@ -41,7 +41,7 @@ envfor-python2 script
     #
     #  Purpose   : Activate Python 2.7.
     #  Created   : Sunday, October  4 2020.
-    #  Author    : Pierre Rouleau <prouleau001@gmail.com>
+    #  Author    : Pierre Rouleau
     #  Time-stamp: <2020-10-05 14:55:24, updated by Pierre Rouleau>
     # ----------------------------------------------------------------------------
     #  Module Description
@@ -75,7 +75,7 @@ envfor-python3 script
     #
     #  Purpose   : Activate Python 3.
     #  Created   : Monday, October  5 2020.
-    #  Author    : Pierre Rouleau <prouleau001@gmail.com>
+    #  Author    : Pierre Rouleau
     #  Time-stamp: <2020-10-05 14:05:18, updated by Pierre Rouleau>
     # ----------------------------------------------------------------------------
     #  Module Description
