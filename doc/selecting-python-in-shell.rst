@@ -68,6 +68,8 @@ envfor-python2 script
 envfor-python3 script
 ---------------------
 
+.. code:: shell
+
     #!/bin/sh
     #  SH FILE: envfor-python3
     #
@@ -197,3 +199,7 @@ Python 3.8.5.
     >>> exit()
     >Pierres-Cpu@Mon Oct 05@15:21:28[~]
     >
+
+
+
+.. ---------------------------------------------------------------------------
