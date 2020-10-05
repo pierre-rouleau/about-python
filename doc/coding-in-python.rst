@@ -3,7 +3,7 @@ Coding in Python
 ================
 
 :Home page: :Home page: https://github.com/pierre-rouleau/about-python
-:Time-stamp: <2020-09-04 15:05:36, updated by Pierre Rouleau>
+:Time-stamp: <2020-10-04 22:19:08, updated by Pierre Rouleau>
 :Copyright:  Copyright © 2020, Pierre Rouleau
 :License: `MIT <LICENSE>`_
 
@@ -15,7 +15,7 @@ Coding in Python
 Python Code Organization
 ========================
 
-I write Python code to build different types of programs:
+It's possible to use Python to write different types of programs:
 
 - command line utilities,
 - complete GUI applications,
